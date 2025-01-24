@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
-import { Roboto } from "@next/font/google";
+import { Roboto } from "next/font/google";
 import { Icon } from "@iconify/react";
 import githubIcon from "@iconify-icons/mdi/github";
 import menuIcon from "@iconify-icons/mdi/menu";
